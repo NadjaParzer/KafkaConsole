@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bCUiRoMB3QtAaJNg/zZaIPGqR/DW//ySuSXuhStf04U0f7CFnoZ6GBDuEQetcVfdmnrIis/Jee46j1YgI3XgWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nadjap\\Desktop\\migr\\ConsoleKafka\\ConsoleKafka\\ConsoleKafka\\ConsoleKafka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nadjap\\.nuget\\packages\\confluent.kafka\\1.9.3\\confluent.kafka.1.9.3.nupkg.sha512",
+    "C:\\Users\\Nadjap\\.nuget\\packages\\librdkafka.redist\\1.9.2\\librdkafka.redist.1.9.2.nupkg.sha512",
+    "C:\\Users\\Nadjap\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
