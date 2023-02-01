@@ -39,9 +39,9 @@ var httpResponseMessage = await restApiClient.CreateOrReplaceStreamAsync<Tweet>(
 var responseMessage = await new KSqlDbRestApiClient(httpClientFactory)
   .InsertIntoAsync(new Tweet { Id = 2, Message = "ksqlDB rulez!" });
 
-context.Add(new Tweet { Id = 1, Message = "Hello world" });
-context.Add(new Tweet { Id = 3, Message = "ksqlDB rulez!" });
-var saveChangesResponse = await context.SaveChangesAsync();
+//context.Add(new Tweet { Id = 1, Message = "Hello world" });
+//context.Add(new Tweet { Id = 3, Message = "ksqlDB rulez!" });
+//var saveChangesResponse = await context.SaveChangesAsync();
 
 using var disposable = context.CreateQueryStream<Tweet>()
   .WithOffsetResetPolicy(AutoOffsetReset.Latest)
