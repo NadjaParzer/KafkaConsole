@@ -49,16 +49,16 @@ public class Program
                     break;
                 }
 
-                string key = "a";
+                string key = null;
                 string val = text;
 
-                //// split line if both key and value specified.
-                //int index = text.IndexOf(" ");
-                //if (index != -1)
-                //{
-                //    key = text.Substring(0, index);
-                //    val = text.Substring(index + 1);
-                //}
+                // split line if both key and value specified.
+                int index = text.IndexOf(" ");
+                if (index != -1)
+                {
+                    key = text.Substring(0, index);
+                    val = text.Substring(index + 1);
+                }
 
                 try
                 {

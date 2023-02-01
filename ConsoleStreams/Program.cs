@@ -64,6 +64,7 @@ namespace sample_stream_demo
                     new TopicSpecification() {Name = input},
                     new TopicSpecification() {Name = output},
                     new TopicSpecification() {Name = "table"},
+                    new TopicSpecification() {Name = "tweets"},
                 });
             }
             catch (Exception e)

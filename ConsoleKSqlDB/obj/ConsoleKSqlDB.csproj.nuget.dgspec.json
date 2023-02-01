@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\01_Nadja_Projects\\02_Test\\KafkaStreamsConsole\\ConsoleKSqlDB\\ConsoleKSqlDB.csproj": {}
+  },
+  "projects": {
+    "C:\\01_Nadja_Projects\\02_Test\\KafkaStreamsConsole\\ConsoleKSqlDB\\ConsoleKSqlDB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\01_Nadja_Projects\\02_Test\\KafkaStreamsConsole\\ConsoleKSqlDB\\ConsoleKSqlDB.csproj",
+        "projectName": "ConsoleKSqlDB",
+        "projectPath": "C:\\01_Nadja_Projects\\02_Test\\KafkaStreamsConsole\\ConsoleKSqlDB\\ConsoleKSqlDB.csproj",
+        "packagesPath": "C:\\Users\\nadja.parzer\\.nuget\\packages\\",
+        "outputPath": "C:\\01_Nadja_Projects\\02_Test\\KafkaStreamsConsole\\ConsoleKSqlDB\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nadja.parzer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "ksqlDb.RestApi.Client": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

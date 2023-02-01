@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "7z2modR5Abr3PxFri4O1CogpDs3RDhXFPSepHAAgl044tqejHXdsKkdcSeH+3ezfOf1zzWnATxPkh5FsbzNqWQ==",
+  "success": true,
+  "projectFilePath": "C:\\01_Nadja_Projects\\02_Test\\KafkaStreamsConsole\\ConsoleKSqlDB\\ConsoleKSqlDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nadja.parzer\\.nuget\\packages\\ksqldb.restapi.client\\2.7.0\\ksqldb.restapi.client.2.7.0.nupkg.sha512",
+    "C:\\Users\\nadja.parzer\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\nadja.parzer\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\nadja.parzer\\.nuget\\packages\\microsoft.extensions.http\\6.0.0\\microsoft.extensions.http.6.0.0.nupkg.sha512",
+    "C:\\Users\\nadja.parzer\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\nadja.parzer\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\nadja.parzer\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\nadja.parzer\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\nadja.parzer\\.nuget\\packages\\pluralize.net\\1.0.2\\pluralize.net.1.0.2.nupkg.sha512",
+    "C:\\Users\\nadja.parzer\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\nadja.parzer\\.nuget\\packages\\system.interactive.async\\5.0.0\\system.interactive.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\nadja.parzer\\.nuget\\packages\\system.linq.async\\5.0.0\\system.linq.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\nadja.parzer\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\nadja.parzer\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\nadja.parzer\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
