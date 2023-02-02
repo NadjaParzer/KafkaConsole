@@ -122,8 +122,7 @@ public class Program
     {
         var topics = new List<string>()
         {
-           "join-topic",
-           "table",
+           "newStream",
         };
 
         var brokerList = "127.0.0.1:29092";
